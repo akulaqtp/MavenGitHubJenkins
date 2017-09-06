@@ -10,6 +10,7 @@
             <class name="testScripts.Test_FO_MyInfo_EditAddressPage" />
           -->
             <class name="Hello" />
+            <class name="TestOne" />
 
         </classes>
     </test>
